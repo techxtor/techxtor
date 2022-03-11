@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techxtor
+- 👋 Hi, I’m Manish
 - 👀 I’m interested in Web Development and Automation
 - 📫 How to reach me techxtor472@gmail.com
 
