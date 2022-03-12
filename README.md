@@ -4,7 +4,7 @@
 - 📫 How to reach me techxtor472@gmail.com
 
 #### Topics:
-- [java-learning](https://github.com/search?q=user%3Atechxtor+java-learning&type=repositories)
+- [java-learning](https://github.com/search?q=user%3Atechxtor+techxtor-java-learning&type=repositories)
 
 <!---
 techxtor/techxtor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
