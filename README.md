@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development and Automation
 - 📫 How to reach me techxtor472@gmail.com
 
-#### Topics:
+#### Learning Topics:
 - [Java Learning Path](https://github.com/topics/techxtor-java-learning)
 - [AWS Leanings](https://github.com/topics/techxtor-aws-learning)
 - [Spring Learning Path](https://github.com/topics/techxtor-spring-learning)
