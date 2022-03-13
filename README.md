@@ -4,8 +4,9 @@
 - 📫 How to reach me techxtor472@gmail.com
 
 #### Topics:
-- [Java Learning Path](https://github.com/search?q=user%3Atechxtor+techxtor-java-learning&type=repositories)
-- [AWS Leanings](https://github.com/search?q=techxtor-aws-learning&type=repositories)
+- [Java Learning Path](https://github.com/topics/techxtor-java-learning)
+- [AWS Leanings](https://github.com/topics/techxtor-aws-learning)
+- [Spring Learning Path](https://github.com/topics/techxtor-spring-learning)
 
 <!---
 techxtor/techxtor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
