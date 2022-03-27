@@ -8,8 +8,3 @@
 - [AWS Leanings](https://github.com/topics/techxtor-aws-learning)
 - [Spring Learning Path](https://github.com/topics/techxtor-spring-learning)
 - [Node Projects](https://github.com/topics/techxtor-node-projects)
-
-<!---
-techxtor/techxtor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
